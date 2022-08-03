@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="langmeng-admin" />
+        <module name="langmeng-common" />
+        <module name="langmeng-framework" />
+        <module name="langmeng-generator" />
+        <module name="langmeng-quartz" />
+        <module name="langmeng-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="langmeng-admin" target="1.8" />
+      <module name="langmeng-common" target="1.8" />
+      <module name="langmeng-framework" target="1.8" />
+      <module name="langmeng-generator" target="1.8" />
+      <module name="langmeng-quartz" target="1.8" />
+      <module name="langmeng-springboot" target="1.8" />
+      <module name="langmeng-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/langmeng-admin/langmeng-admin.iml" filepath="$PROJECT_DIR$/langmeng-admin/langmeng-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langmeng-common/langmeng-common.iml" filepath="$PROJECT_DIR$/langmeng-common/langmeng-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langmeng-framework/langmeng-framework.iml" filepath="$PROJECT_DIR$/langmeng-framework/langmeng-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langmeng-generator/langmeng-generator.iml" filepath="$PROJECT_DIR$/langmeng-generator/langmeng-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langmeng-quartz/langmeng-quartz.iml" filepath="$PROJECT_DIR$/langmeng-quartz/langmeng-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langmeng-springboot.iml" filepath="$PROJECT_DIR$/langmeng-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langmeng-system/langmeng-system.iml" filepath="$PROJECT_DIR$/langmeng-system/langmeng-system.iml" />
+    </modules>
+  </component>
+</project>

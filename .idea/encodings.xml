@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/langmeng-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/langmeng-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/langmeng-framework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/langmeng-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/langmeng-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/langmeng-system" charset="UTF-8" />
+  </component>
+</project>
